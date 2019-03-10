@@ -1,4 +1,4 @@
-# FactorPrinter
+# Factor_Printer
 Write a method named printFactors with one parameter of type int named number. 
 
 If number is < 1, the method should print "Invalid Value".
